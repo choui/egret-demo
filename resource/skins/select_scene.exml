@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="select_scen" width="1134" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="lobby_bg_jpg" x="0" y="0" locked="true"/>
+	<e:Image source="huanle_png" x="590" y="105"/>
+	<e:Image source="jingdian_png" x="255" y="106"/>
+	<e:Image source="jingjie_png" x="23" y="107"/>
+	<e:Image source="zhizun_png" x="855" y="302"/>
+	<e:Image source="ziyou_png" x="594" y="302"/>
+</e:Skin>

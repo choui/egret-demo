@@ -1,0 +1,16 @@
+{
+  "name": "sanguosha",
+  "version": "1.0.0",
+  "description": "三国杀v1.0",
+  "main": "src/Main.ts",
+  "scripts": {
+    "start": "egret -a startserver"
+  },
+  "keywords": [
+    "egret",
+    "h5",
+    "game"
+  ],
+  "author": "lsc",
+  "license": "ISC"
+}

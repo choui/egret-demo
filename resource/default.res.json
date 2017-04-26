@@ -1,0 +1,360 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,fullScrLoadBg_jpg,load_bg_jpg,danji_png,bbs_png,gonggao_png,sanguosha_bannner_png,kswz_png,kswzyy_png,ksabd1_png,ksabd2_png,ksand2_png,kaishiwenzi_00_png,kaishiwenzi_01_png,kaishiwenzi_02_png,kaishiwenzi_03_png,kaishiwenzi_04_png,kaishiwenzi_05_png,kaishiwenzi_06_png,lobby_bg_jpg,huanle_png,jingdian_png,jingjie_png,zhizun_png,ziyou_png,1_png,2_png,3_png,4_png,5_png,6_png,7_png,8_png,9_png,10_png,11_png,12_png,13_png,14_png,15_png,16_png,17_png,18_png,19_png,20_png,chr_detail_b3_png,chr_detail_b4_png,chr_detail_a1_png,chr_detail_a2_png,chr_detail_a3_png,chr_detail_a4_png,chr_detail_b1_png,chr_detail_b2_png,actortype_01_png,actortype_02_png,actortype_03_png,actortype_04_png,mask_01_png,mask_02_png,actor_die_01_png,actor_die_02_png,actor_die_03_png,actor_die_04_png,mask_png,xue01_png,xue00_png,guojia_01_png,guojia_02_png,guojia_03_png,guojia_04_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/fullScrLoadBg.jpg",
+			"type": "image",
+			"name": "fullScrLoadBg_jpg"
+		},
+		{
+			"url": "assets/load_bg.jpg",
+			"type": "image",
+			"name": "load_bg_jpg"
+		},
+		{
+			"url": "assets/danji.png",
+			"type": "image",
+			"name": "danji_png"
+		},
+		{
+			"url": "assets/bbs.png",
+			"type": "image",
+			"name": "bbs_png"
+		},
+		{
+			"url": "assets/gonggao.png",
+			"type": "image",
+			"name": "gonggao_png"
+		},
+		{
+			"url": "assets/sanguosha_bannner.png",
+			"type": "image",
+			"name": "sanguosha_bannner_png"
+		},
+		{
+			"url": "assets/anim/StartGame/kswz.png",
+			"type": "image",
+			"name": "kswz_png"
+		},
+		{
+			"url": "assets/anim/StartGame/kswzyy.png",
+			"type": "image",
+			"name": "kswzyy_png"
+		},
+		{
+			"url": "assets/anim/StartGame/ksabd1.png",
+			"type": "image",
+			"name": "ksabd1_png"
+		},
+		{
+			"url": "assets/anim/StartGame/ksabd2.png",
+			"type": "image",
+			"name": "ksabd2_png"
+		},
+		{
+			"url": "assets/anim/StartGame/ksand2.png",
+			"type": "image",
+			"name": "ksand2_png"
+		},
+		{
+			"url": "assets/anim/StartGame/kaishiwenzi_00.png",
+			"type": "image",
+			"name": "kaishiwenzi_00_png"
+		},
+		{
+			"url": "assets/anim/StartGame/kaishiwenzi_01.png",
+			"type": "image",
+			"name": "kaishiwenzi_01_png"
+		},
+		{
+			"url": "assets/anim/StartGame/kaishiwenzi_02.png",
+			"type": "image",
+			"name": "kaishiwenzi_02_png"
+		},
+		{
+			"url": "assets/anim/StartGame/kaishiwenzi_03.png",
+			"type": "image",
+			"name": "kaishiwenzi_03_png"
+		},
+		{
+			"url": "assets/anim/StartGame/kaishiwenzi_04.png",
+			"type": "image",
+			"name": "kaishiwenzi_04_png"
+		},
+		{
+			"url": "assets/anim/StartGame/kaishiwenzi_05.png",
+			"type": "image",
+			"name": "kaishiwenzi_05_png"
+		},
+		{
+			"url": "assets/anim/StartGame/kaishiwenzi_06.png",
+			"type": "image",
+			"name": "kaishiwenzi_06_png"
+		},
+		{
+			"url": "assets/picture/select_scene/lobby_bg.jpg",
+			"type": "image",
+			"name": "lobby_bg_jpg"
+		},
+		{
+			"url": "assets/picture/select_scene/huanle.png",
+			"type": "image",
+			"name": "huanle_png"
+		},
+		{
+			"url": "assets/picture/select_scene/jingdian.png",
+			"type": "image",
+			"name": "jingdian_png"
+		},
+		{
+			"url": "assets/picture/select_scene/jingjie.png",
+			"type": "image",
+			"name": "jingjie_png"
+		},
+		{
+			"url": "assets/picture/select_scene/zhizun.png",
+			"type": "image",
+			"name": "zhizun_png"
+		},
+		{
+			"url": "assets/picture/select_scene/ziyou.png",
+			"type": "image",
+			"name": "ziyou_png"
+		},
+		{
+			"url": "assets/picture/face/1.png",
+			"type": "image",
+			"name": "1_png"
+		},
+		{
+			"url": "assets/picture/face/2.png",
+			"type": "image",
+			"name": "2_png"
+		},
+		{
+			"url": "assets/picture/face/3.png",
+			"type": "image",
+			"name": "3_png"
+		},
+		{
+			"url": "assets/picture/face/4.png",
+			"type": "image",
+			"name": "4_png"
+		},
+		{
+			"url": "assets/picture/face/5.png",
+			"type": "image",
+			"name": "5_png"
+		},
+		{
+			"url": "assets/picture/face/6.png",
+			"type": "image",
+			"name": "6_png"
+		},
+		{
+			"url": "assets/picture/face/7.png",
+			"type": "image",
+			"name": "7_png"
+		},
+		{
+			"url": "assets/picture/face/8.png",
+			"type": "image",
+			"name": "8_png"
+		},
+		{
+			"url": "assets/picture/face/9.png",
+			"type": "image",
+			"name": "9_png"
+		},
+		{
+			"url": "assets/picture/face/10.png",
+			"type": "image",
+			"name": "10_png"
+		},
+		{
+			"url": "assets/picture/face/11.png",
+			"type": "image",
+			"name": "11_png"
+		},
+		{
+			"url": "assets/picture/face/12.png",
+			"type": "image",
+			"name": "12_png"
+		},
+		{
+			"url": "assets/picture/face/13.png",
+			"type": "image",
+			"name": "13_png"
+		},
+		{
+			"url": "assets/picture/face/14.png",
+			"type": "image",
+			"name": "14_png"
+		},
+		{
+			"url": "assets/picture/face/15.png",
+			"type": "image",
+			"name": "15_png"
+		},
+		{
+			"url": "assets/picture/face/16.png",
+			"type": "image",
+			"name": "16_png"
+		},
+		{
+			"url": "assets/picture/face/17.png",
+			"type": "image",
+			"name": "17_png"
+		},
+		{
+			"url": "assets/picture/face/18.png",
+			"type": "image",
+			"name": "18_png"
+		},
+		{
+			"url": "assets/picture/face/19.png",
+			"type": "image",
+			"name": "19_png"
+		},
+		{
+			"url": "assets/picture/face/20.png",
+			"type": "image",
+			"name": "20_png"
+		},
+		{
+			"url": "assets/picture/actor/chr_detail_b3.png",
+			"type": "image",
+			"name": "chr_detail_b3_png"
+		},
+		{
+			"url": "assets/picture/actor/chr_detail_b4.png",
+			"type": "image",
+			"name": "chr_detail_b4_png"
+		},
+		{
+			"url": "assets/picture/actor/chr_detail_a1.png",
+			"type": "image",
+			"name": "chr_detail_a1_png"
+		},
+		{
+			"url": "assets/picture/actor/chr_detail_a2.png",
+			"type": "image",
+			"name": "chr_detail_a2_png"
+		},
+		{
+			"url": "assets/picture/actor/chr_detail_a3.png",
+			"type": "image",
+			"name": "chr_detail_a3_png"
+		},
+		{
+			"url": "assets/picture/actor/chr_detail_a4.png",
+			"type": "image",
+			"name": "chr_detail_a4_png"
+		},
+		{
+			"url": "assets/picture/actor/chr_detail_b1.png",
+			"type": "image",
+			"name": "chr_detail_b1_png"
+		},
+		{
+			"url": "assets/picture/actor/chr_detail_b2.png",
+			"type": "image",
+			"name": "chr_detail_b2_png"
+		},
+		{
+			"url": "assets/picture/actor/actortype_01.png",
+			"type": "image",
+			"name": "actortype_01_png"
+		},
+		{
+			"url": "assets/picture/actor/actortype_02.png",
+			"type": "image",
+			"name": "actortype_02_png"
+		},
+		{
+			"url": "assets/picture/actor/actortype03.png",
+			"type": "image",
+			"name": "actortype_03_png"
+		},
+		{
+			"url": "assets/picture/actor/actortype04.png",
+			"type": "image",
+			"name": "actortype_04_png"
+		},
+		{
+			"url": "assets/picture/actor/actor_die_01.png",
+			"type": "image",
+			"name": "actor_die_01_png"
+		},
+		{
+			"url": "assets/picture/actor/actor_die_02.png",
+			"type": "image",
+			"name": "actor_die_02_png"
+		},
+		{
+			"url": "assets/picture/actor/actor_die_03.png",
+			"type": "image",
+			"name": "actor_die_03_png"
+		},
+		{
+			"url": "assets/picture/actor/actor_die_04.png",
+			"type": "image",
+			"name": "actor_die_04_png"
+		},
+		{
+			"url": "assets/picture/actor/mask_01.png",
+			"type": "image",
+			"name": "mask_01_png"
+		},
+		{
+			"url": "assets/picture/actor/mask_02.png",
+			"type": "image",
+			"name": "mask_02_png"
+		},
+		{
+			"name": "mask_png",
+			"type": "image",
+			"url": "assets/picture/actor/mask.png"
+		},
+		{
+			"name": "xue01_png",
+			"type": "image",
+			"url": "assets/picture/actor/xue01.png"
+		},
+		{
+			"name": "xue00_png",
+			"type": "image",
+			"url": "assets/picture/actor/xue00.png"
+		},
+		{
+			"name": "guojia_01_png",
+			"type": "image",
+			"url": "assets/picture/actor/guojia_01.png"
+		},
+		{
+			"name": "guojia_02_png",
+			"type": "image",
+			"url": "assets/picture/actor/guojia_02.png"
+		},
+		{
+			"name": "guojia_03_png",
+			"type": "image",
+			"url": "assets/picture/actor/guojia_03.png"
+		},
+		{
+			"name": "guojia_04_png",
+			"type": "image",
+			"url": "assets/picture/actor/guojia_04.png"
+		}
+	]
+}

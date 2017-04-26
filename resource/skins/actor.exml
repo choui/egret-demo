@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="actor" width="186" height="253" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="15ba8c92baa"/>
+	<e:Group id="resGroup" width="176" height="254" x="0" y="0" anchorOffsetY="0" anchorOffsetX="0" alpha="1">
+		<e:Image id="leftBorder" source="chr_detail_a3_png" y="30" scaleX="0.4" scaleY="0.342" x="9" />
+		<e:Image source="xue01_png" y="201" width="30" height="30" x="14.6" scaleX="0.6" scaleY="0.6"/>
+		<e:Image id="rightBorder" source="chr_detail_b3_png" x="159" y="30" scaleX="0.53" scaleY="0.342" />
+		<e:Image id="actorImg" source="4_png" x="37" y="0" scaleX="1" scaleY="1" />
+		<e:Image id="guojiaImg" source="guojia_01_png" x="7" y="28" scaleX="0.3" scaleY="0.3" />
+		<e:Image id="actorTypeImg" source="actortype_01_png" x="152" y="28" />
+		<e:Image id="maskImg" source="mask_png" x="1" y="28" anchorOffsetX="0" width="176" anchorOffsetY="0" height="225"
+		         alpha="0.5"  visible="false"/>
+		<e:Image source="xue01_png" y="224" width="30" height="30" x="15"  scaleX="0.6" scaleY="0.6"/>
+		<e:Image source="xue01_png" y="177" width="30" height="30" x="14.6" scaleX="0.6" scaleY="0.6"/>
+		<e:Image source="xue00_png" x="14.5" y="154" width="30" height="30"  scaleX="0.6" scaleY="0.6"/>
+	</e:Group>
+	<e:Image id="isDieImg" source="actor_die_01_png" x="49" y="28.5"  scaleX="1.2" scaleY="1.2" visible="false" locked="true"/>
+</e:Skin>
