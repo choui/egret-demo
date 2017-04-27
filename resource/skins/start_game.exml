@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="start_game" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*">
+<e:Skin class="start_game" width="1334" height="750" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" xmlns:tween="egret.tween.*">
 	<w:Declarations>
 		<tween:TweenGroup id="startGroupBg1">
 			<tween:TweenItem target="{image}">
 				<tween:To duration="10000">
 					<tween:props>
-						<e:Object rotation="{360}"/>
+						<e:Object rotation="{360}" />
 					</tween:props>
 				</tween:To>
 			</tween:TweenItem>
 			<tween:TweenItem target="{image0}">
 				<tween:To duration="10000">
 					<tween:props>
-						<e:Object rotation="{-360}"/>
+						<e:Object rotation="{-360}" />
 					</tween:props>
 				</tween:To>
 			</tween:TweenItem>
 		</tween:TweenGroup>
 	</w:Declarations>
-	<e:Image source="load_bg_jpg" x="0" y="0" locked="true"/>
-	<e:Image source="danji_png" x="1214.34" y="5.32" locked="true"/>
-	<e:Image source="gonggao_png" x="1029.33" y="0" locked="true"/>
-	<e:Image source="bbs_png" x="1128.01" y="11" locked="true"/>
-	<e:Image source="sanguosha_bannner_png" x="1" y="630" locked="true"/>
-	<e:Image id="image" source="ksabd2_png" x="1088.67" y="416.26" anchorOffsetX="217" anchorOffsetY="217" locked="true"/>
-	<e:Image source="ksand2_png" x="862.34" y="168.33" locked="true"/>
-	<e:Image id="image0" source="ksabd1_png" x="1088.62" y="419.31" anchorOffsetX="172" anchorOffsetY="172" locked="true"/>
-	<e:Image source="kswzyy_png" x="872.3" y="172.32" locked="true"/>
-	<e:Image source="kswz_png" x="870.65" y="175.76" locked="true"/>
+	<e:Image source="load_bg_jpg" x="0" y="0" locked="true" />
+	<e:Image source="danji_png" x="1214.34" y="5.32" locked="true" />
+	<e:Image source="gonggao_png" x="1029.33" y="0" locked="true" />
+	<e:Image source="bbs_png" x="1128.01" y="11" locked="true" />
+	<e:Image source="sanguosha_bannner_png" x="1" y="630" locked="true" />
+	<e:Image id="image" source="ksabd2_png" x="1088.67" y="416.26" anchorOffsetX="217" anchorOffsetY="217" locked="true" />
+	<e:Image source="ksand2_png" x="862.34" y="168.33" locked="true" />
+	<e:Image id="image0" source="ksabd1_png" x="1088.62" y="419.31" anchorOffsetX="172" anchorOffsetY="172" locked="true" />
+	<e:Image source="kswzyy_png" x="872.3" y="172.32" locked="true" />
+	<e:Image id="startGameImg" source="kswz_png" x="870.65" y="175.76" locked="true" />
 </e:Skin>

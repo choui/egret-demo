@@ -131,7 +131,7 @@ class Main extends eui.UILayer {
     protected startCreateScene(): void {
         console.info('hello egret !!!');
 
-        // this.addChild(new StartGame());
-        this.addChild(new PlayGame());
+        this.addChild(new StartGame());
+        // this.addChild(new PlayGame());
     }
 }

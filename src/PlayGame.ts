@@ -2,10 +2,12 @@ class PlayGame extends eui.Component {
 
     private tickListeners: ITickListener[] = [];
 
+    private cardGroup: eui.Group;
+    private actors: Actor[];
+
     constructor() {
         super();
         this.skinName = 'resource/skins/play_game.exml';
-        this.createActors();
 
         egret.startTick(() => {
             RR.each(this.tickListeners, (listener: ITickListener) => {
@@ -13,6 +15,10 @@ class PlayGame extends eui.Component {
             });
             return true;
         }, this);
+
+
+        this.createActors();
+        this.startGame();
     }
 
 
@@ -21,17 +27,17 @@ class PlayGame extends eui.Component {
     }
 
     private createActors() {
-        let actors = ActorPool.randomActors();
-        RR.each(actors, (actor: Actor, index, actors) => {
-            if (index == 1) {
-                actor.isSelect = true;
-            }
-
+        this.actors = ActorPool.random5Actors();
+        RR.each(this.actors, (actor: Actor, index, actors) => {
             this.registerTickListener(actor);
             this.addChild(actor);
-            if (RR.random(0, 10) > 6) {
-                let act = <Actor>actor;
-                act.isDie = true;
+        });
+    }
+
+    private startGame() {
+        RR.each(this.actors, (actor: Actor) => {
+            if (actor.actorType == ActorType.ZhuGong) {
+                actor.isSelect = true;
             }
         });
     }

@@ -22,7 +22,7 @@ class Actor extends eui.Component implements ITickListener {
         super();
         this.skinName = 'resource/skins/actor.exml'
         this.actorImg.source = RES.getRes(`${actorImgNumber}_png`);
-        this.actorTypeImg.source = RES.getRes(`actortype_0${actorType}_png`);
+        this.actorType = actorType;
         this.isDieImg.source = RES.getRes(`actor_die_0${actorType}_png`);
         this.resGroup.filters = [this.blurFliter];
         this.resetActorStatus();
