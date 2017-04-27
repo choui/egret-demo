@@ -1,6 +1,6 @@
 {
   "global": {
-    "globalAutoLayerMarkEnable": true
+    "globalAutoLayerMarkEnable": false
   },
   "15ba8c92baa": {
     "guideLines": [
@@ -17,5 +17,8 @@
         "pos": -152
       }
     ]
+  },
+  "15bae592abe": {
+    "guideLinesEnabled": false
   }
 }

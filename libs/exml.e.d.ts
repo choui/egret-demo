@@ -1,5 +1,7 @@
 declare class actor extends eui.Skin{
 }
+declare class card extends eui.Skin{
+}
 declare class mask extends eui.Skin{
 }
 declare class full_bg extends eui.Skin{

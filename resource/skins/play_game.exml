@@ -2,6 +2,10 @@
 <e:Skin class="full_bg" width="1334" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
         xmlns:ns1="*">
 	<e:Image source="fullScrLoadBg_jpg" x="0" y="0" width="1336" />
+	<ns1:Card width="145" height="195" x="44" y="535" />
 	<e:Group id="actorGroup" width="1334" height="750" x="0" y="0">
+		<ns1:Card width="145" height="195" x="479" y="535" />
+		<ns1:Card width="145" height="195" x="189" y="535" />
+		<ns1:Card width="145" height="195" x="334" y="535" />
 	</e:Group>
 </e:Skin>

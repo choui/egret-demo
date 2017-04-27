@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "description_json,fullScrLoadBg_jpg,load_bg_jpg,danji_png,bbs_png,gonggao_png,sanguosha_bannner_png,kswz_png,kswzyy_png,ksabd1_png,ksabd2_png,ksand2_png,kaishiwenzi_00_png,kaishiwenzi_01_png,kaishiwenzi_02_png,kaishiwenzi_03_png,kaishiwenzi_04_png,kaishiwenzi_05_png,kaishiwenzi_06_png,lobby_bg_jpg,huanle_png,jingdian_png,jingjie_png,zhizun_png,ziyou_png,1_png,2_png,3_png,4_png,5_png,6_png,7_png,8_png,9_png,10_png,11_png,12_png,13_png,14_png,15_png,16_png,17_png,18_png,19_png,20_png,chr_detail_b3_png,chr_detail_b4_png,chr_detail_a1_png,chr_detail_a2_png,chr_detail_a3_png,chr_detail_a4_png,chr_detail_b1_png,chr_detail_b2_png,actortype_01_png,actortype_02_png,actortype_03_png,actortype_04_png,mask_01_png,mask_02_png,actor_die_01_png,actor_die_02_png,actor_die_03_png,actor_die_04_png,mask_png,xue01_png,xue00_png,guojia_01_png,guojia_02_png,guojia_03_png,guojia_04_png",
+			"keys": "description_json,fullScrLoadBg_jpg,load_bg_jpg,danji_png,bbs_png,gonggao_png,sanguosha_bannner_png,kswz_png,kswzyy_png,ksabd1_png,ksabd2_png,ksand2_png,kaishiwenzi_00_png,kaishiwenzi_01_png,kaishiwenzi_02_png,kaishiwenzi_03_png,kaishiwenzi_04_png,kaishiwenzi_05_png,kaishiwenzi_06_png,lobby_bg_jpg,huanle_png,jingdian_png,jingjie_png,zhizun_png,ziyou_png,1_png,2_png,3_png,4_png,5_png,6_png,7_png,8_png,9_png,10_png,11_png,12_png,13_png,14_png,15_png,16_png,17_png,18_png,19_png,20_png,chr_detail_b3_png,chr_detail_b4_png,chr_detail_a1_png,chr_detail_a2_png,chr_detail_a3_png,chr_detail_a4_png,chr_detail_b1_png,chr_detail_b2_png,actortype_01_png,actortype_02_png,actortype_03_png,actortype_04_png,mask_01_png,mask_02_png,actor_die_01_png,actor_die_02_png,actor_die_03_png,actor_die_04_png,mask_png,xue01_png,xue00_png,guojia_01_png,guojia_02_png,guojia_03_png,guojia_04_png,actor_color_01_png,waifaguang1_04_png,waifaguang1_05_png,waifaguang1_06_png,waifaguang1_07_png,waifaguang1_08_png,waifaguang1_09_png,waifaguang1_10_png,waifaguang1_11_png,waifaguang1_00_png,waifaguang1_01_png,waifaguang1_02_png,waifaguang1_03_png,game_new_03_png,card_04_png,card_07_png,card_02_png,card1_num2_png,card1_num3_png,card1_num4_png,card1_num5_png,card1_num6_png,card1_num7_png,card1_num8_png,card1_num9_png,card1_num10_png,card1_num11_png,card1_num12_png,card1_num13_png,card1_num1_png,card_type1_png,card_type2_png,card_type3_png,card_type4_png,card_skill3_png,card_skill4_png,card_skill1_png,card_skill2_png,card_prop1_png,card_prop2_png,card_prop3_png,card_prop4_png",
 			"name": "preload"
 		}
 	],
@@ -355,6 +355,216 @@
 			"name": "guojia_04_png",
 			"type": "image",
 			"url": "assets/picture/actor/guojia_04.png"
+		},
+		{
+			"name": "actor_color_01_png",
+			"type": "image",
+			"url": "assets/picture/actor/actor_color_01.png"
+		},
+		{
+			"name": "waifaguang1_04_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_04.png"
+		},
+		{
+			"name": "waifaguang1_05_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_05.png"
+		},
+		{
+			"name": "waifaguang1_06_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_06.png"
+		},
+		{
+			"name": "waifaguang1_07_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_07.png"
+		},
+		{
+			"name": "waifaguang1_08_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_08.png"
+		},
+		{
+			"name": "waifaguang1_09_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_09.png"
+		},
+		{
+			"name": "waifaguang1_10_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_10.png"
+		},
+		{
+			"name": "waifaguang1_11_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_11.png"
+		},
+		{
+			"name": "waifaguang1_00_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_00.png"
+		},
+		{
+			"name": "waifaguang1_01_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_01.png"
+		},
+		{
+			"name": "waifaguang1_02_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_02.png"
+		},
+		{
+			"name": "waifaguang1_03_png",
+			"type": "image",
+			"url": "assets/anim/ChuPaiZhe/waifaguang1_03.png"
+		},
+		{
+			"name": "game_new_03_png",
+			"type": "image",
+			"url": "assets/picture/actor/game_new_03.png"
+		},
+		{
+			"name": "card_04_png",
+			"type": "image",
+			"url": "assets/picture/card/card_04.png"
+		},
+		{
+			"name": "card_07_png",
+			"type": "image",
+			"url": "assets/picture/card/card_07.png"
+		},
+		{
+			"name": "card_02_png",
+			"type": "image",
+			"url": "assets/picture/card/card_02.png"
+		},
+		{
+			"name": "card1_num2_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num2.png"
+		},
+		{
+			"name": "card1_num3_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num3.png"
+		},
+		{
+			"name": "card1_num4_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num4.png"
+		},
+		{
+			"name": "card1_num5_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num5.png"
+		},
+		{
+			"name": "card1_num6_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num6.png"
+		},
+		{
+			"name": "card1_num7_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num7.png"
+		},
+		{
+			"name": "card1_num8_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num8.png"
+		},
+		{
+			"name": "card1_num9_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num9.png"
+		},
+		{
+			"name": "card1_num10_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num10.png"
+		},
+		{
+			"name": "card1_num11_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num11.png"
+		},
+		{
+			"name": "card1_num12_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num12.png"
+		},
+		{
+			"name": "card1_num13_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num13.png"
+		},
+		{
+			"name": "card1_num1_png",
+			"type": "image",
+			"url": "assets/picture/card/card1_num1.png"
+		},
+		{
+			"name": "card_type1_png",
+			"type": "image",
+			"url": "assets/picture/card/card_type1.png"
+		},
+		{
+			"name": "card_type2_png",
+			"type": "image",
+			"url": "assets/picture/card/card_type2.png"
+		},
+		{
+			"name": "card_type3_png",
+			"type": "image",
+			"url": "assets/picture/card/card_type3.png"
+		},
+		{
+			"name": "card_type4_png",
+			"type": "image",
+			"url": "assets/picture/card/card_type4.png"
+		},
+		{
+			"name": "card_skill3_png",
+			"type": "image",
+			"url": "assets/picture/card/card_skill3.png"
+		},
+		{
+			"name": "card_skill4_png",
+			"type": "image",
+			"url": "assets/picture/card/card_skill4.png"
+		},
+		{
+			"name": "card_skill1_png",
+			"type": "image",
+			"url": "assets/picture/card/card_skill1.png"
+		},
+		{
+			"name": "card_skill2_png",
+			"type": "image",
+			"url": "assets/picture/card/card_skill2.png"
+		},
+		{
+			"name": "card_prop1_png",
+			"type": "image",
+			"url": "assets/picture/card/card_prop1.png"
+		},
+		{
+			"name": "card_prop2_png",
+			"type": "image",
+			"url": "assets/picture/card/card_prop2.png"
+		},
+		{
+			"name": "card_prop3_png",
+			"type": "image",
+			"url": "assets/picture/card/card_prop3.png"
+		},
+		{
+			"name": "card_prop4_png",
+			"type": "image",
+			"url": "assets/picture/card/card_prop4.png"
 		}
 	]
 }

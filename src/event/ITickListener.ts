@@ -1,0 +1,3 @@
+interface ITickListener {
+    onTick(): void;
+}

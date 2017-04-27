@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="card" width="145" height="195" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <w:Config id="15bae592abe" />
+    <e:Image source="card_07_png" x="0" y="0" locked="true" visible="false" />
+    <e:Image source="card_02_png" x="7" y="11" locked="true" />
+    <e:Image source="card_04_png" x="6" y="6" locked="true" visible="false" />
+    <e:Image source="card1_num2_png" x="9" y="18" locked="true" />
+    <e:Image source="card_type1_png" x="10" y="39" locked="true" />
+    <e:Image source="card_skill4_png" x="37.5" y="20" locked="true" />
+    <e:Image source="card_prop2_png" x="13.5" y="76" locked="true" />
+</e:Skin>

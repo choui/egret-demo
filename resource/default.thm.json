@@ -3,6 +3,7 @@
   "autoGenerateExmlsList": true,
   "exmls": [
     "resource/skins/actor.exml",
+    "resource/skins/card.exml",
     "resource/skins/mask.exml",
     "resource/skins/play_game.exml",
     "resource/skins/select_scene.exml",
