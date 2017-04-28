@@ -8,5 +8,9 @@ declare class full_bg extends eui.Skin{
 }
 declare class select_scen extends eui.Skin{
 }
+declare class select_wujiang extends eui.Skin{
+}
+declare class select_zhugong extends eui.Skin{
+}
 declare class start_game extends eui.Skin{
 }

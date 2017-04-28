@@ -7,6 +7,8 @@
     "resource/skins/mask.exml",
     "resource/skins/play_game.exml",
     "resource/skins/select_scene.exml",
+    "resource/skins/select_wujiang.exml",
+    "resource/skins/select_zhugong.exml",
     "resource/skins/start_game.exml"
   ]
 }

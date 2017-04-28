@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="select_zhugong" width="1334" height="750" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+    <e:Image source="fullScrLoadBg_jpg" x="0" y="0" locked="true" />
+    <e:Image source="game_new_032_png" x="0" y="0" locked="true" />
+    <e:Image source="game_new_032_png" x="0" y="330.06" locked="true" />
+    <e:Label text="其他可选武将" x="9.69" y="331.06" textColor="0x9B8484" fontFamily="KaiTi" height="30" size="18"
+             textAlign="left" verticalAlign="middle" locked="true" />
+    <e:Label text="你的身份是主公，请选择你的武将" x="522.35" y="675.72" fontFamily="KaiTi" height="30" size="18" textAlign="left"
+             verticalAlign="middle" textColor="0xf7c296" locked="true" />
+    <e:Label text="主公武将" x="9" y="-0.34" textColor="0x9b8484" fontFamily="KaiTi" height="30" size="18" textAlign="left"
+             verticalAlign="middle" locked="true" />
+    <e:Image source="game_new_08_png" x="0" y="28" anchorOffsetX="0" width="1332" anchorOffsetY="0" height="300"
+             locked="true" />
+    <e:Image source="game_new_08_png" x="2" y="358.4" anchorOffsetX="0" width="1332" anchorOffsetY="0" height="300"
+             locked="true" />
+</e:Skin>

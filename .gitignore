@@ -1,3 +1,4 @@
 .idea/
 bin-debug/
 node_modules/
+npm*.log
